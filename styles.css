@@ -4,7 +4,7 @@ h1 {
 
 #container {
     display:flex;
-    background:linear-gradient(red, orange, yellow, green, blue, purple, pink) ;
+    background:linear-gradient(red, orange, yellow, green, rgb(0, 252, 244), blue, purple, pink) ;
     flex-direction: column;
     justify-content: center;
     align-items: center;
