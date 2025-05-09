@@ -1,5 +1,27 @@
+@keyframes slideInFromLeft {
+    to{
+        transform: translateX(0);
+    }
+}
+  
 h1 {
     color: blueviolet;
+
+}
+
+#intro {
+    animation: slideInFromLeft 1s ease-out 0s forwards;
+    transform: translateX(-200%);
+}
+
+#links {
+    animation: slideInFromLeft 1s ease-out 1s forwards;
+    transform: translateX(-200%);
+}
+
+#channels {
+    animation: slideInFromLeft 1s ease-out 2s forwards;
+    transform: translateX(-200%);
 }
 
 #container {
