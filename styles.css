@@ -11,12 +11,12 @@ h1 {
 
 #intro {
     animation: slideInFromLeft 1s ease-out 0s forwards;
-    transform: translateX(-200%);
+    transform: translateX(-500%);
 }
 
 #links {
     animation: slideInFromLeft 1s ease-out 1s forwards;
-    transform: translateX(-200%);
+    transform: translateX(-500%);
 }
 
 #channels {
