@@ -12,16 +12,20 @@ h1 {
 #intro {
     animation: slideInFromLeft 1s ease-out 0s forwards;
     transform: translateX(-500%);
+    text-align: center;
 }
 
 #links {
     animation: slideInFromLeft 1s ease-out 1s forwards;
     transform: translateX(-500%);
+    text-align: center;
 }
 
 #channels {
     animation: slideInFromLeft 1s ease-out 2s forwards;
     transform: translateX(-200%);
+    text-align: center;
+
 }
 
 #container {
